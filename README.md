@@ -8,4 +8,4 @@ coming soon to the Github near you!
 
 
 
-![Editor-Icon](https://github.com/user-attachments/assets/99f56515-9e97-4add-8885-fcb4e17cb613)
+[Icon](https://github.com/N0N3Studios/GorillaPhysicsPlus/blob/7f9ae1c2c26a13030eafd30360292daa56a525d6/Icon.png)
