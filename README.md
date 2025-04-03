@@ -8,4 +8,4 @@ coming soon to the Github near you!
 
 
 
-[Icon](https://github.com/N0N3Studios/GorillaPhysicsPlus/blob/7f9ae1c2c26a13030eafd30360292daa56a525d6/Icon.png)
+![Icon](https://github.com/N0N3Studios/GorillaPhysicsPlus/blob/7f9ae1c2c26a13030eafd30360292daa56a525d6/Icon.png)
