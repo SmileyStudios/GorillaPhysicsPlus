@@ -2,7 +2,8 @@
 A Physical System Similar to LemmingVR's Gorilla Locomotion. Instead of using raycasting this system uses Rigidbodies and Configurable Joints
 
 Fixed to work on unity 6 and possibly older with new features such as grabbing static objects, and more on the way
-coming soon!
+
+coming soon to the Github near you!
 
 
 
